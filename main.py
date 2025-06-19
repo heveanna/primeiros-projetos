@@ -26,6 +26,10 @@ class Gato:
         print ('\n O gato', self.nome, 'está com', self.peso)
         print (self._dieta_especial_gato())
 
+    def altura_gato (self, altura):
+        self.altura_gato = altura
+        print
+
 nome_gato = input('Digite o nome do seu gato: ')
 g1 = Gato (nome_gato)
 
