@@ -1,5 +1,8 @@
 import pandas as pd 
 
 class Pessoa:
-    def __init__(self):
+    def __init__(self, idade, altura):
+        self.idade = idade
+        self.__altura = altura
+        
         pass
