@@ -1,4 +1,8 @@
-import pandas as pd 
-import seaborn as seaborn
 
-class 
+
+class Livro:
+    def __init__(self, marca, editora, ano):
+        self.__marca = marca
+        self.editora = editora
+        self.ano = ano
+
