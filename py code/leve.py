@@ -1,4 +1,4 @@
-
+import pandas as pd 
 
 class Pessoa:
     def __init__(self, idade, altura, nome):
@@ -6,8 +6,9 @@ class Pessoa:
         self.__altura = altura
         self.nome = nome
 
-    def peso_pesso(self, peso):
+    def peso_pesso(self, peso, cabelo):
         self.peso = peso
+        self.cabelo = cabelo
 
 
         
