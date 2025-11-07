@@ -11,5 +11,6 @@ class Pessoa:
         self.cabelo = cabelo
 
 
+print ("Informa a idade da pessoa: ")
         
         
