@@ -1,4 +1,5 @@
-
+import pandas as pd
+import numpy as np
 
 class Livro:
     def __init__(self, marca, editora, ano):
@@ -7,4 +8,5 @@ class Livro:
         self.ano = ano
 
         self.__peso = None
+
         
