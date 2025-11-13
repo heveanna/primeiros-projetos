@@ -1,5 +1,3 @@
 # Primeiros Projetos
 
-# Yolo teste
-
 ##
