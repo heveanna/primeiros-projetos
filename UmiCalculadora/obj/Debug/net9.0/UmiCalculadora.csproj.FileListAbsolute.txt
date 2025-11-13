@@ -1,0 +1,15 @@
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.AssemblyInfoInputs.cache
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.AssemblyInfo.cs
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.csproj.CoreCompileInputs.cache
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.sourcelink.json
+C:\primeiros-projetos\UmiCalculadora\bin\Debug\net9.0\UmiCalculadora.exe
+C:\primeiros-projetos\UmiCalculadora\bin\Debug\net9.0\UmiCalculadora.deps.json
+C:\primeiros-projetos\UmiCalculadora\bin\Debug\net9.0\UmiCalculadora.runtimeconfig.json
+C:\primeiros-projetos\UmiCalculadora\bin\Debug\net9.0\UmiCalculadora.dll
+C:\primeiros-projetos\UmiCalculadora\bin\Debug\net9.0\UmiCalculadora.pdb
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.dll
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\refint\UmiCalculadora.dll
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.pdb
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\UmiCalculadora.genruntimeconfig.cache
+C:\primeiros-projetos\UmiCalculadora\obj\Debug\net9.0\ref\UmiCalculadora.dll

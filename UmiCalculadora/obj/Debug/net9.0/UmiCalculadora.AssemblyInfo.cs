@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UmiCalculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707a137adac4bd2aaa26214afee0301e0a6faaae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bad8ea9f7726822c7298bdb51b587605b79852f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("UmiCalculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UmiCalculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
